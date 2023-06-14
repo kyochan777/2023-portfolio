@@ -1,0 +1,95 @@
+@charset "utf-8";
+
+/**********index*********************
+1.   portpolio top page
+2.   salon-lien app
+
+
+
+*************************************
+
+/****************************************
+
+      1. portpolio top page 
+
+*****************************************/
+
+body.top-page {
+  margin: 0;
+}
+
+header {
+  background: #eee;
+  text-align: center;
+  padding: 32px 0;
+}
+
+header img {
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+h1 {
+  margin: 16px 0 0;
+  font-weight: normal;
+  font-size: 24px;
+}
+
+p {
+  margin: 0;
+}
+a {
+  text-decoration: none;
+}
+main {
+  padding: 64px 0;
+}
+h2 {
+  margin: 0;
+  font-weight: normal;
+  font-size: 24px;
+  text-align: center;
+}
+
+h3 {
+  margin: 16px 0 0;
+  font-weight: normal;
+  font-size: 20px;
+}
+
+section {
+  width: 400px;
+  margin: 64px auto 0;
+}
+
+section p {
+  margin-top: 16px;
+  line-height: 1.8;
+}
+
+footer {
+  border-top: 1px solid #ccc;
+  text-align: center;
+  padding: 64px 0;
+}
+
+small {
+  font-size: 14px;
+  color: #aaa;
+}
+
+address {
+  margin-top: 16px;
+}
+
+a:hover {
+  opacity: .7;
+}
+
+
+
+/* ***************************************
+    
+    2.   salon-lien app 
+
+******************************************/
